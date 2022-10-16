@@ -1,0 +1,16 @@
+{
+  "name": "health",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "nabroleonx <nabroleonx@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cohere-ai": "^4.3.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
